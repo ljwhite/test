@@ -1,0 +1,4 @@
+git terms
+push
+pull
+or

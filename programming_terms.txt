@@ -1,0 +1,4 @@
+programming terms
+status
+boolean
+integer
